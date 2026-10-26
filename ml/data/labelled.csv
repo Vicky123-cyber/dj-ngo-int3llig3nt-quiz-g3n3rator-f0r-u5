@@ -1,0 +1,275 @@
+sentence,label
+0 40 Value Sx Sy Scale factor 40 40 Equal scale factors preserve proportions.,1
+0 60 Scale factor Horizont… Vertical Sy Direction 60 40 Equal scale Stretched square,1
+"01 · COORDINATE SPACES One triangle, many coordinate systems Triangle ABC begins in model coordinates.",1
+02 Apply consistently Transform every defining point.,1
+02 · REFLECTION Reflection flips an object across an axis Size is unchanged,1
+"03 View The pipeline selects a window, scales it, then translates it to a viewport.",1
+"03 · SHEAR Shear slants a rectangle An x-shear keeps y fixed while horizontal displacement grows with y. x′ = x + sh⋅y, y′ = y With sh = 1: A(1,1) → A′(2,1), B(4,1) → B′(5,1); C(4,3) → C′(7,3), D(1,3) → D′(4,3).",1
+"04 · LINEAR STRUCTURE Lines transform consistently, and matrices organize the work Transform both endpoints with the same rule, then redraw the segment.",1
+"05 · VIEWING PIPELINE The viewing pipeline selects and maps a scene Each stage answers: what is the object, where is it, what part is visible, and where should it appear on the display?",1
+"06 · WINDOW → VIEWPORT Window-to-viewport mapping uses scale and translation Window: xw = 0…10, yw = 0…5.",1
+07 · ASPECT RATIO Aspect ratio determines whether the object looks correct Window 10×5 maps to viewport 600×200.,1
+"08 · WORKED EXAMPLE Worked example: transform, then view the object Reflect ABC in the x-axis: A′(1,−1), B′(4,−1), C′(2,−3).",1
+09 · TAKEAWAYS Coordinate rules become visible pixels 01 Transform Reflection changes orientation,1
+"A 2-by-2 square becomes 120 by 80 pixels, stretching horizontally.",1
+A transformation changes its points,1
+"A triangle moves from object space to a selected window, then onto a viewport.",1
+"A(1,1), B(4,1), C(2,3) → A′(1,−1), B′(4,−1), C′(2,−3).",1
+AI can detect patterns and help you manage your inbox.,1
+"AI can scan incoming messages, sort them by topic, and suggest possible replies.",1
+"AI can support you by finding patterns, offering insights, and automating mundane tasks.",1
+AI finds patterns across many users and uses those trends to suggest likely options.,1
+AI is also used to automate repetitive tasks.,1
+AI models base these suggestions on what users have done before and compare that to the actions of other users.,1
+"Across the x-axis Rule: (x,y) → (x,−y).",1
+"Across the y-axis Rule: (x,y) → (−x,y).",1
+Add a control >> wait block inside the if statement to wait 1 second 8.,1
+Add a motion >> go to block 9.,1
+Add scripts to the shot sprite.,1
+Add scripts to your alien sprite.,1
+Add scripts to your star sprite.,1
+Add text in the middle: “Click to Start” 6.,1
+"Add the blocks as below such that the if is inside the forever loop, the if checks the “touching Sprite 1?”",1
+Add the code below for the second sprite.,1
+Add the following scripts to your cat sprite.,1
+Add two operators >> pick random 10.,1
+Add two “x” values over the mouse eyes.,1
+Attach the script underneath the “When clicked” button 4.,1
+B – Make the cat do something repeatedly,1
+Bitmap graphics not so much… workspace D – Make a new costume for the cat left-right button Selected cat,1
+"By processing thousands or millions of examples, an AI model can detect what humans might miss, especially when patterns change slightly over time.",1
+C – Run the script when you click start,1
+"COMPUTER GRAPHICS · 2D 2D Transformation & Viewing How objects change in coordinate space, then become pixels on a display.",1
+Change the background to gray so the stars show up.,0
+Change the first pick random value from 1 to -10 9.,0
+Change the mouse action when the cat catches him (inside the if statement) 6.,0
+Change the name for your game in the box under the top left SCRATCH logo.,0
+Change the text from “Hello!”,0
+Change the text in costume2 to GAME OVER TUTORIAL #3 Step V Text and fill with color buttons,0
+Change the “Move” block to move 20 times 6.,0
+Change the “Repeat” block to only run 5 times 5.,0
+Click on the Backdrops tab.,0
+Click on the Cat Sprite.,0
+Click on the cat image in the right workspace 5.,0
+Click on the flip left-right button “costume 1” Costumes tab Scratch can use vector graphics which look nice on big and little screens.,0
+Click on the red color at the bottom and select the “T” text button at right 5.,0
+"Click on the stage again, select “Choose Background from Library” 6.",0
+Click on “Create” and go!,0
+Click the “Costumes” tab 2.,0
+Click the “Green Flag” button to start the animation Events Green Flag The Green Flag and Stop buttons run your game / animation.,0
+Click “Join Scratch” to make an account 3.,0
+Clones let you copy a sprite.,0
+"Connect the blocks as below and double click on “forever” H – Make the mouse run Operators, Control, Motion Highlighted mouse sprite Click the red stop sign to stop your mouse!",0
+Connect the blocks as below right 6.,0
+"Connect the blocks as shown K – Start the mouse sprite moving Now, when the script is run, the mouse will hide, the cat will talk and walk, and then the mouse will appear and run around.",0
+Create a black lined rectangle in the middle.,0
+Developed in 2003 at MIT – Free accounts!,0
+Do the same thing for the cat (steps 1-3) to start the cat at 50% of the normal size 5.,0
+Double click on the two connected script commands 6.,0
+Double click the blocks to run your script 7.,0
+Drag a “Repeat 10” block and a “Wait 1” block over to the script area 5.,0
+Drag a “Think Hmmm for 2 secs” to the script area and change it to “Squeak!”,0
+Drag a “When clicked” block the script area 3.,0
+Drag a “When clicked” block to the script area 4.,0
+Drag a “change score by 1” to the script area 8.,0
+Drag a “forever” block into the script area 6.,0
+Drag a “go to x: 0 y:0” block and a “move 10 steps” block to the script area 3.,0
+Drag a “hide” button and a “show” button to the script area 6.,0
+Drag a “if then” block and into the script area 4.,0
+Drag a “pick random 1 to 10” into the script area 4.,0
+Drag a “set Score to 0” button to the script area 8.,0
+"Drag a “turn 15 degrees” block, a “move 10 steps” block and a “if on edge bounce” block to the script area 8.",0
+Drag a “wait 2 secs” button to the script area and change it to wait 9 seconds 10.,0
+Drag two “Change x by 10” blocks into the script area 7.,0
+Drag two “Change y by 10” blocks into the script area 5.,0
+Drag two “Switch costume to costume3” blocks into the script area 5.,0
+Drag two “When space key is pressed” blocks into the script area 3.,0
+Draw a big gray rectangle.,0
+Draw a ship facing to the right with the point front at the center cross.,0
+Each message starts a phase of the program.,0
+Each scene (or phase or segment) of your program is a separate part.,0
+Each scene of your program should be self- contained and not affect another scene.,0
+Equal Sx and Sy preserve shape,1
+Equal scales keep a square square,1
+File -> Save now 2.,0
+Fill the rectangle with white.,0
+Finish Final scene Moves to Start only when button pressed.,1
+"For Mac and PC, not iPad/iPhone/Android (yet) Fun exposure to computer programming concepts.",0
+"For Sprite2, select the Scripts tab.",0
+"For infinite game play, an infinite loop must be created.",0
+For left direction: Change the “space key” to “left arrow” then attach one “switch costume 3” under and one “change x by” underneath.,0
+For right direction: Change the “space key” to “down arrow” then attach one “change y by” underneath.,1
+For right direction: Change the “space key” to “right arrow” then attach one “switch costume 3” under and one “change x by” underneath.,1
+For up direction: Change the “space key” to “up arrow” then attach one “change y by” underneath.,1
+"Forever events run always, until you stop the script",1
+"HOMOGENEOUS COORDINATES ​ ​ ​ ​ ​ 1 0 0 0 −1 0 0 0 1 Reflection in the x-axis [3 2 1] ​ ​ ​ ​ ​ = 1 0 0 0 −1 0 0 0 1 [3 −2 1] Therefore P(3,2) → P′(3,−2).",1
+I – Keep score Data A variable is a piece of data that can change.,0
+In Tutorial #1 Cat Animation Move and talk Click to do Green start button Repeat loops Cat Game Arrows to move Edit/Change costume Random mouse motion Variables for score IF statements Editing sprites In Tutorial #2 Cloning User-defined functions In Tutorial #3 Message events Backgrounds 1.,0
+"In all of these use cases, AI acts as a tool.",0
+"In finance, AI can automate parts of data entry, flag issues for review, or help prepare reports based on structured data.",1
+Initialize the mouse to start at 50% of normal size 4.,0
+"Instead, it supports users with insights and suggestions based on data, allowing them to decide what to do next.",1
+Introduction Describe rules and gameplay Moves to start after a few seconds.,0
+It doesn’t decide what’s true or what action to take.,0
+It is important to initialize values when you start a script,1
+It runs for 11 seconds so the player can play while 0 is displayed for one second.,0
+"J – Change the score Control, Sensing, Data, Looks Highlighted mouse sprite If statements only do something if a condition is met",0
+Make a new game: File -> New 3.,0
+Make a new sprite using the “paint” option that looks like a want.,0
+Make sure you delete clones when not needed!,1
+Make sure you saved your first tutorial.,0
+Make sure you saved your second tutorial.,0
+Make two variables named Score and Time 3.,0
+Map A′: xv=50+1·80=130  Yv=40+ (−1+4)·40=160.,0
+Messages are a way to send signals to all the sprites at once.,1
+Missing a comma can break everything!,1
+Model coordinates Define the object.,1
+"Modify the 10 to -10 Events, Motion Now the arrow keys can make the cat move around.",0
+Modify the 10 to be -10 8.,0
+"Modify the mouse script to switch Costumes, show hide, and wait M – Editing sprites",0
+"Modify “costume 3” to “costume 1” Events, Looks, Motion Now the left and right arrow buttons can make the cat change direction.",0
+Motion and Control A repeat block is used when you know exactly how many times you need to do something!,0
+Moves to Finish after 4 seconds.,0
+N – Smoother motion and saving your game,0
+Next to “New Sprite” click on “Choose sprite from library” button that looks like a little face 2.,0
+Notice all the different sprites!,0
+Now there should be two sprites on the screen G – Make another sprite “New Sprite” “Choose from library”,0
+"Now, consider how AI offers insights.",0
+"ORIGINAL TRANSFORMED A(1,1) B(4,1) C(2,3) Model → world x y",0
+"Once a message is flagged, it can be routed to a separate folder.",0
+"P(2,1), Q(5,1), R(3,4) → P′ (−2,1), Q′(−5,1), R′(−3,4).",0
+"P(6,3) P′(340,170 ) Window: 0… 10 × 0…5 Viewport: 100…500 × 50…250",0
+"Page 1 of 1 Video transcript Examples of using AI to find patterns, offer insights, and automate tasks Every day, AI helps organize massive amounts of data.",0
+Paint a new sprite called alien.,0
+Paint a new sprite called shot.,0
+Paint a new sprite called star.,0
+"Parallel lines remain parallel, and transformed intersections still meet.",0
+Pattern recognition is one of AI’s key strengths.,0
+Play and adjust values as needed!,0
+Points remain equally distant from the mirror axis.,0
+Replace the four up/down/left/right commands with a single forever loop and four if commands 3.,0
+Right click or shift-click the sprite and select duplicate.,0
+"Right click the mouse and select duplicate, “mouse 3” should be selected 4.",0
+Right click the top cat sprite (labeled “costume 1”) and select “duplicate” 3.,0
+"S ​ = x ​ = 10 −0 500 −100 40 S ​ = y ​ = 5 −0 250 −50 40 x ​ = v 100 + (x ​ − w 0) ⋅40 y ​ = v 50 + (y − w 0) ⋅40 For P(6,3): xv=100+6·40=340; yv=50+3·40=170.",0
+Scratch does not currently work on iPads or mobile phones without problems.,0
+Scroll down in the library to find “mouse1”.,0
+Select the brick wall 5.,0
+Select the mouse sprite in the bottom left area so that it is highlighted 2.,0
+Select the mouse sprite in the bottom left area so that it is highlighted 7.,0
+Select the new costume “costume 3” 4.,0
+Select the “Costumes” tab and right click the “mouse 2” image 3.,0
+Select your ship sprite and add scripts to your ship to make it move.,0
+Select “Choose Background from Library” button 4.,0
+Select “Convert to vector in the bottom right.,0
+Select “Make a Variable” 3.,0
+Select “More blocks” and select “Make a block” then type the name “MakeClone” and click “Add number input” then change the number input label to “waittime” 12.,0
+Select “mouse 1” and hit “ok” 4.,0
+"Set location, set visibility, set costume, etc.",0
+"Set the random value to be -100 to 100 L – Finishing touches Now, when the cat catches the mouse the mouse should squeak then jump to a new location on the screen.",0
+Set the variable name to “Score” 4.,0
+Spam filters can use AI to scan messages for features commonly found in junk mail.,0
+"Sprite location, size, and visibility is set to the initial values.",0
+Start Initialize game then play game Moves to Stop after 11 seconds of gameplay.,0
+"Stop Game is over, let player know.",0
+"Streaming apps, online stores, and social platforms often suggest what to watch, buy, or read next.",0
+Sx = 600/10 = 60  Sy = 200/5 = 40.,0
+TUTORIAL #2 Step P Script for ship sprite,0
+TUTORIAL #2 Step Q Script for shot sprite,0
+TUTORIAL #2 Step R Script for alien sprite,0
+TUTORIAL #2 Step S Script for star sprite,0
+TUTORIAL #3 Step U The “broadcast” and “when I receive” blocks are under events.,0
+TUTORIAL #3 What is happening in step U?,0
+TUTORIAL #3 What is happening overall?,0
+"Take customer service, for instance.",0
+"Take your email inbox, for example.",0
+That is the core of window-to-viewport mapping.,0
+The Time variable is displayed and will count down from 10 to 0.,0
+The cat motion is not very smooth 2.,0
+The cat should be selected 6.,0
+The cat should return to the starting spot!,0
+The cat should say the two phrases “Looks” button Script work area A – Make the cat do something,0
+The elements of a scene must be initialized at the start of a scene.,0
+The heart of the game is the “repeat until” block and timer condition.,0
+"The height stays the same  displacement is 1 at y = 1 and 3 at y = 3. y = 3 · displacement = 3 y = 1 · displacement = 1 Original rectangle · transformed rectangle D C A B D′ C′ A′ B′
+
+
+",0
+The join block lets you join a number to a string of text characters.,1
+The scratch screen size is: x from -240 to 240 y from -180 to 180,1
+The sprite must initialize for each scene.,0
+The transitions are very important.,0
+The value of a variable varies!,0
+The “and” condition is only true when both the mouse is touching the sprite and the mouse is clicked down.,1
+The “floor” command rounds the value of the Time variable down.,1
+The “timer” will count up from 0.,1
+There may be issues with some projects.,0
+These are commands for your script.,0
+These predictions aren’t guesses,1
+"These systems are trained on thousands of examples and can detect text, links, or sender behavior patterns.  AI bases them on statistical patterns in the data.",1
+Things should be hidden at the end of a scene if not used in the next scene.,1
+This automation enables human agents to focus on complex questions that require personal attention.,1
+This is where the animation / game is shown Editing Screen Overview These are the start/stop buttons This is where you can have multiple “sprites” Sprites can have scripts to control actions.,1
+"This is where you can put commands, edit sprite costumes, change sounds Change Scripts / Costumes / Sounds for a sprite using these tabs These are categories of commands",0
+This keeps the game going for a set amount of time.,0
+This means variable values are set to their initial values.,0
+This pattern detection reduces distractions and helps people stay focused.,0
+This will let you make your own function that takes an input value and does something every time you call it!,0
+"Three key ways AI helps you work more efficiently are finding patterns, offering insights, and automating tasks.",1
+"To do this, click on “Stage” then select the “Backdrop” tab.",0
+"Under File, select “Save Now” To delete blocks you can right click and delete You can make your own backdrops You can switch backdrops using scripts You can makes sounds and music You can learn about lists and clones and events You can make an account (free!)",0
+"Under scripts, click on the purple “Looks” from the command category list 2.",0
+"Under scripts, click on the “Control” button 3.",0
+"Under scripts, click on the “Control” button 5.",0
+"Under scripts, click on the “Control” button 9.",0
+"Under scripts, click on the “Control” button from the command category list 4.",0
+"Under scripts, click on the “Data” button 2.",0
+"Under scripts, click on the “Data” button 7.",0
+"Under scripts, click on the “Events” button 2.",0
+"Under scripts, click on the “Looks” and get a “Set size to %” button 3.",0
+"Under scripts, click on the “Looks” button 4.",0
+"Under scripts, click on the “Looks” button 5.",0
+"Under scripts, click on the “Looks” button 9.",0
+"Under scripts, click on the “Motion” button 4.",0
+"Under scripts, click on the “Motion” button 6.",0
+"Under scripts, click on the “Motion” button 7.",0
+"Under scripts, click on the “Motion” button from the command category list 2.",0
+"Under scripts, click on the “Operators” button 3.",0
+"Under scripts, click on the “Sensing” button 5.",0
+"Understanding how AI systems work helps users ask more informed questions, use AI responsibly, and focus on what matters most.",1
+Use equal scaling or letterboxing when shape fidelity matters.,0
+Using messages helps with timing issues.,1
+"Variables are reset, everything is initialized for that step.",0
+Variables have names so that you can read and write values 1.,0
+Viewport Place that region on the display.,1
+"Viewport: xv = 100…500, yv = 50… 250.",0
+"WINDOW · x=0…5, y=−4… 2 VIEWPORT · x=50…450, y=40…280 A′ B′ C′ A′ B′ C′",0
+"When you “share” a game, others can look at your game and learn from your work.",0
+Window Select the visible region.,0
+"Window: x=0…5, y=−4…2; viewport: x=50…450, y=40…280.",0
+World coordinates Place objects in the scene.,1
+You should now see three different backdrops TUTORIAL #3 Step T “Stage” selection and “Choose Background from Library”,0
+and share projects You can look at other projects for inspiration!,1
+before → after Endpoints carry the rule.,0
+block into the script area and change it to “Sprite 1” 6.,0
+"condition, and if true the score changes and mouse squeaks.",0
+for 2 secs” block over and connect it under 4.,0
+for 2 secs” block over to the script work area 3.,0
+http://scratch.mit.edu Large community: learn from other projects Or share your own creation!,0
+to “I catch mice…” 5.,0
+"x values are for left and right, y values are for up and down E – Move the cat left and right",0
+"x values are for left and right, y values are for up and down F – Move the up and down",0
+– Remember to acknowledge the original project!,0
+– https://phosphorus.herokuapp.com/ – http://phosphorus.github.io/#67685516 • You may need to add touchscreen controls to your project to let people use your games without a keyboard.,0
+“Score 0” should appear in the top left,0
+"• For most computer languages (python, C, java) this is done by typing in text.",1
+• Just put the project number in to run a Scratch app in the phosphorus environment.,1
+• Looking at the code in other projects is a great way to learn!,1
+• Phosphorus can allow shared Scratch projects to run on iPads and mobile phones.,1
+• Scratch looks at the blocks in your project and determines how to make things happen according to your instructions.,1
+"• Scratch runs in Adobe Flash, so it only works on PCs or Macs.",1
+• These tutorials are shared online: – https://scratch.mit.edu/projects/17064873/ – https://scratch.mit.edu/projects/67685516/ – https://scratch.mit.edu/projects/89906152/ • Scratch has a large community.,0
+• Waterbear is a project inspired by Scratch that can show you the resulting code.,1
+"• You can open the app on your phone, then add a link to your home screen to make it look like a real game.",0
+• You can “remix” other people’s work and your shared projects can be remixed by others.,0

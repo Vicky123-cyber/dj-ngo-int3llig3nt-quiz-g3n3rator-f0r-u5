@@ -1,0 +1,4 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted
+Logistic Regression,0.7805,0.7396,0.6983,0.7119,0.7702
+Linear SVM,0.8049,0.7841,0.7155,0.7355,0.7917
+Multinomial Naive Bayes,0.7317,0.8625,0.5417,0.4972,0.6396
